@@ -1,0 +1,7 @@
+C:\Users\CEEP\Documents\SharpDevelop Projects\eduardo e monica\eduardoemonica\obj\Debug\eduardoemonica.vbprojResolveAssemblyReference.cache
+C:\Users\CEEP\Documents\SharpDevelop Projects\eduardo e monica\eduardoemonica\obj\Debug\eduardoemonica.MainForm.resources
+C:\Users\CEEP\Documents\SharpDevelop Projects\eduardo e monica\eduardoemonica\obj\Debug\eduardoemonica.vbproj.GenerateResource.Cache
+C:\Users\CEEP\Documents\SharpDevelop Projects\eduardo e monica\eduardoemonica\bin\Debug\eduardoemonica.exe
+C:\Users\CEEP\Documents\SharpDevelop Projects\eduardo e monica\eduardoemonica\bin\Debug\eduardoemonica.pdb
+C:\Users\CEEP\Documents\SharpDevelop Projects\eduardo e monica\eduardoemonica\obj\Debug\eduardoemonica.exe
+C:\Users\CEEP\Documents\SharpDevelop Projects\eduardo e monica\eduardoemonica\obj\Debug\eduardoemonica.pdb
